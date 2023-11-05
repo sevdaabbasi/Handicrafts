@@ -14,6 +14,8 @@
 		6D2A37BA2AF7ED1C0091BE19 /* HandicraftsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D2A37B92AF7ED1C0091BE19 /* HandicraftsTests.swift */; };
 		6D2A37C42AF7ED1C0091BE19 /* HandicraftsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D2A37C32AF7ED1C0091BE19 /* HandicraftsUITests.swift */; };
 		6D2A37C62AF7ED1C0091BE19 /* HandicraftsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D2A37C52AF7ED1C0091BE19 /* HandicraftsUITestsLaunchTests.swift */; };
+		6D2A37D32AF7F49D0091BE19 /* welcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D2A37D22AF7F49D0091BE19 /* welcomeView.swift */; };
+		6D2A37D52AF7F4C50091BE19 /* Button1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D2A37D42AF7F4C50091BE19 /* Button1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		6D2A37BF2AF7ED1C0091BE19 /* HandicraftsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HandicraftsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D2A37C32AF7ED1C0091BE19 /* HandicraftsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandicraftsUITests.swift; sourceTree = "<group>"; };
 		6D2A37C52AF7ED1C0091BE19 /* HandicraftsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandicraftsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6D2A37D22AF7F49D0091BE19 /* welcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = welcomeView.swift; sourceTree = "<group>"; };
+		6D2A37D42AF7F4C50091BE19 /* Button1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				6D2A37AA2AF7ED1B0091BE19 /* ContentView.swift */,
 				6D2A37AC2AF7ED1B0091BE19 /* Assets.xcassets */,
 				6D2A37AE2AF7ED1B0091BE19 /* Preview Content */,
+				6D2A37D22AF7F49D0091BE19 /* welcomeView.swift */,
+				6D2A37D42AF7F4C50091BE19 /* Button1.swift */,
 			);
 			path = Handicrafts;
 			sourceTree = "<group>";
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6D2A37AB2AF7ED1B0091BE19 /* ContentView.swift in Sources */,
+				6D2A37D52AF7F4C50091BE19 /* Button1.swift in Sources */,
 				6D2A37A92AF7ED1B0091BE19 /* HandicraftsApp.swift in Sources */,
+				6D2A37D32AF7F49D0091BE19 /* welcomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
